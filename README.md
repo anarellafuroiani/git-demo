@@ -7,3 +7,4 @@
 - `git commit`
 - `git merge`
 - `git push`
+This was edited in the demo
